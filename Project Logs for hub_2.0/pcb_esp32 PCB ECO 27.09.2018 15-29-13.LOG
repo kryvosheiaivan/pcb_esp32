@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=GND Pin=C8-1
+Removed Pin From Net: NetName=3.3V Pin=C8-2
+Added Member To Class: ClassName=schema Member=Component C1 capacitor
+Added Member To Class: ClassName=schema Member=Component D1 RGB
+Added Member To Class: ClassName=schema Member=Component D2 RGB
+Added Member To Class: ClassName=schema Member=Component D3 LED
+Added Member To Class: ClassName=schema Member=Component P1 Header 4
+Added Member To Class: ClassName=schema Member=Component P2 Header 2
+Added Member To Class: ClassName=schema Member=Component P3 Header 2
+Added Member To Class: ClassName=schema Member=Component R5 Resistor
+Added Member To Class: ClassName=schema Member=Component SW1 Button
+Added Member To Class: ClassName=schema Member=Component U1 ESP32-WROOM
+Added Member To Class: ClassName=schema Member=Component U2 temp sensor
+Added Room: Name=schema

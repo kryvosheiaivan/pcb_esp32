@@ -1,0 +1,122 @@
+Added Component: Designator=C1(cap0511)
+Added Component: Designator=C2(SMD 0603 CAP)
+Added Component: Designator=C3(SMD 0603 CAP)
+Added Component: Designator=C4(SMD 0603 CAP)
+Added Component: Designator=C5(SMD 0603 CAP)
+Added Component: Designator=C6(SMD 0603 CAP)
+Added Component: Designator=C7(SMD 0603 CAP)
+Added Component: Designator=C8(smd 0805 Cap)
+Added Component: Designator=C9(SMD 0603 CAP)
+Added Component: Designator=D1(RGB 5mm)
+Added Component: Designator=D2(RGB 5mm)
+Added Component: Designator=D3(LED 5mm round)
+Added Component: Designator=P1(HDR1X4)
+Added Component: Designator=P2(HDR1X2)
+Added Component: Designator=R1(SMD 0603 RES)
+Added Component: Designator=R2(SMD 0603 RES)
+Added Component: Designator=R3(SMD 0603 RES)
+Added Component: Designator=R4(SMD 0603 RES)
+Added Component: Designator=R5(SMD 0603 RES)
+Added Component: Designator=R6(SMD 0603 RES)
+Added Component: Designator=R7(SMD 0603 RES)
+Added Component: Designator=R8(SMD 0603 RES)
+Added Component: Designator=SW1(Button reset)
+Added Component: Designator=SW2(Button tact_3x6mm)
+Added Component: Designator=U1(ESP_WROOM_32)
+Added Component: Designator=U2(LGA)
+Added Pin To Net: NetName=3.3V Pin=C1-1
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Pin To Net: NetName=3.3V Pin=C2-2
+Added Pin To Net: NetName=NetC3_1 Pin=C3-1
+Added Pin To Net: NetName=GND Pin=C3-2
+Added Pin To Net: NetName=GND Pin=C4-1
+Added Pin To Net: NetName=3.3V Pin=C4-2
+Added Pin To Net: NetName=GND Pin=C5-1
+Added Pin To Net: NetName=3.3V Pin=C5-2
+Added Pin To Net: NetName=NetC6_1 Pin=C6-1
+Added Pin To Net: NetName=GND Pin=C6-2
+Added Pin To Net: NetName=GND Pin=C7-1
+Added Pin To Net: NetName=EN Pin=C7-2
+Added Pin To Net: NetName=GND Pin=C8-1
+Added Pin To Net: NetName=3.3V Pin=C8-2
+Added Pin To Net: NetName=GND Pin=C9-1
+Added Pin To Net: NetName=3.3V Pin=C9-2
+Added Pin To Net: NetName=NetD3_1 Pin=D3-1
+Added Pin To Net: NetName=GND Pin=D3-2
+Added Pin To Net: NetName=3.3V Pin=P1-1
+Added Pin To Net: NetName=GND Pin=P1-2
+Added Pin To Net: NetName=BOOT_RX Pin=P1-3
+Added Pin To Net: NetName=BOOT_TX Pin=P1-4
+Added Pin To Net: NetName=3.3V Pin=P2-1
+Added Pin To Net: NetName=NetP2_2 Pin=P2-2
+Added Pin To Net: NetName=NetC3_1 Pin=R1-1
+Added Pin To Net: NetName=EN Pin=R1-2
+Added Pin To Net: NetName=BOOT_RX Pin=R2-2
+Added Pin To Net: NetName=SDA Pin=R3-1
+Added Pin To Net: NetName=3.3V Pin=R3-2
+Added Pin To Net: NetName=NetC6_1 Pin=R4-1
+Added Pin To Net: NetName=IO_BOOT Pin=R4-2
+Added Pin To Net: NetName=SCL Pin=R5-1
+Added Pin To Net: NetName=3.3V Pin=R5-2
+Added Pin To Net: NetName=EN Pin=R6-1
+Added Pin To Net: NetName=3.3V Pin=R6-2
+Added Pin To Net: NetName=NetD3_1 Pin=R7-1
+Added Pin To Net: NetName=IO27 Pin=R7-2
+Added Pin To Net: NetName=IO2 Pin=R8-1
+Added Pin To Net: NetName=NetP2_2 Pin=R8-2
+Added Pin To Net: NetName=GND Pin=SW1-1
+Added Pin To Net: NetName=NetC3_1 Pin=SW1-2
+Added Pin To Net: NetName=GND Pin=SW2-1
+Added Pin To Net: NetName=NetC6_1 Pin=SW2-2
+Added Pin To Net: NetName=GND Pin=U1-1
+Added Pin To Net: NetName=3.3V Pin=U1-2
+Added Pin To Net: NetName=EN Pin=U1-3
+Added Pin To Net: NetName=IO27 Pin=U1-12
+Added Pin To Net: NetName=GND Pin=U1-15
+Added Pin To Net: NetName=IO2 Pin=U1-24
+Added Pin To Net: NetName=IO_BOOT Pin=U1-25
+Added Pin To Net: NetName=SCL Pin=U1-30
+Added Pin To Net: NetName=SDA Pin=U1-31
+Added Pin To Net: NetName=BOOT_TX Pin=U1-35
+Added Pin To Net: NetName=GND Pin=U1-38
+Added Pin To Net: NetName=GND Pin=U1-39
+Added Pin To Net: NetName=GND Pin=U2-1
+Added Pin To Net: NetName=GND Pin=U2-2
+Added Pin To Net: NetName=SDA Pin=U2-3
+Added Pin To Net: NetName=SCL Pin=U2-4
+Added Pin To Net: NetName=GND Pin=U2-5
+Added Pin To Net: NetName=3.3V Pin=U2-6
+Added Pin To Net: NetName=GND Pin=U2-7
+Added Pin To Net: NetName=3.3V Pin=U2-8
+Added Pin To Net: NetName=3.3V Pin=U2-8
+Added Pin To Net: NetName=NetR2_1 Pin=R2-1
+Added Pin To Net: NetName=NetR2_1 Pin=U1-34
+Added Net: Name=NetR2_1
+Added Member To Class: ClassName=schema Member=Component C1 capacitor
+Added Member To Class: ClassName=schema Member=Component C2 Cap non-polar
+Added Member To Class: ClassName=schema Member=Component C3 Cap non-polar
+Added Member To Class: ClassName=schema Member=Component C4 Cap non-polar
+Added Member To Class: ClassName=schema Member=Component C5 Cap non-polar
+Added Member To Class: ClassName=schema Member=Component C6 Cap non-polar
+Added Member To Class: ClassName=schema Member=Component C7 Cap non-polar
+Added Member To Class: ClassName=schema Member=Component C8 Cap
+Added Member To Class: ClassName=schema Member=Component C9 Cap non-polar
+Added Member To Class: ClassName=schema Member=Component D1 RGB
+Added Member To Class: ClassName=schema Member=Component D2 RGB
+Added Member To Class: ClassName=schema Member=Component D3 LED
+Added Member To Class: ClassName=schema Member=Component P1 Header 4
+Added Member To Class: ClassName=schema Member=Component P2 Header 2
+Added Member To Class: ClassName=schema Member=Component R1 Resistor
+Added Member To Class: ClassName=schema Member=Component R2 Resistor
+Added Member To Class: ClassName=schema Member=Component R3 Resistor
+Added Member To Class: ClassName=schema Member=Component R4 Resistor
+Added Member To Class: ClassName=schema Member=Component R5 Resistor
+Added Member To Class: ClassName=schema Member=Component R6 Resistor
+Added Member To Class: ClassName=schema Member=Component R7 Resistor
+Added Member To Class: ClassName=schema Member=Component R8 Resistor
+Added Member To Class: ClassName=schema Member=Component SW1 Button
+Added Member To Class: ClassName=schema Member=Component SW2 Button
+Added Member To Class: ClassName=schema Member=Component U1 ESP32-WROOM
+Added Member To Class: ClassName=schema Member=Component U2 temp sensor
+Added Room: Name=schema

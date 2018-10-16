@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=3.3V Pin=C9-2
+Added Component: Designator=D1(RGB 5mm)
+Added Component: Designator=D2(RGB 5mm)
+Added Component: Designator=U1(TenstartRobot)
+Added Pin To Net: NetName=3.3OUT Pin=U1-4
+Added Net: Name=3.3OUT
+Added Pin To Net: NetName=GNDOUT Pin=U1-3
+Added Net: Name=GNDOUT
+Added Pin To Net: NetName=NetC9_2 Pin=C9-2
+Added Pin To Net: NetName=NetC9_2 Pin=P2-2
+Added Pin To Net: NetName=NetC9_2 Pin=R8-2
+Added Net: Name=NetC9_2
+Added Class: Name=power
+Added Member To Class: ClassName=schema Member=Component D1 RGB
+Added Member To Class: ClassName=schema Member=Component D2 RGB
+Added Room: Name=power
+Added Room: Name=schema

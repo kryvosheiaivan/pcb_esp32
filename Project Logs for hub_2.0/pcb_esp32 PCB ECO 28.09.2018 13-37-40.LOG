@@ -1,0 +1,6 @@
+Added Component: Designator=SW3(Button tact_3x6mm)
+Added Pin To Net: NetName=3.3V Pin=SW3-1
+Added Pin To Net: NetName=NetC9_2 Pin=SW3-2
+Added Member To Class: ClassName=schema Member=Component SW3 Button
+Added Member To Class: ClassName=schema Member=Component U1 ESP32-WROOM
+Added Room: Name=schema

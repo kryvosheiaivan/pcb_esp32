@@ -1,0 +1,27 @@
+Change Physical Footprint: Designator=C1 Old Footprint=SMD CAP ALU SIZE D New Footprint=SMD CAP ALU SIZE D
+Change Physical Footprint: Designator=C2 Old Footprint=SMD 0603 CAP New Footprint=SMD 0603 CAP
+Change Physical Footprint: Designator=C3 Old Footprint=SMD 0603 CAP New Footprint=SMD 0603 CAP
+Change Physical Footprint: Designator=C4 Old Footprint=SMD 0603 CAP New Footprint=SMD 0603 CAP
+Change Physical Footprint: Designator=C5 Old Footprint=SMD 0603 CAP New Footprint=SMD 0603 CAP
+Change Physical Footprint: Designator=C6 Old Footprint=SMD 0603 CAP New Footprint=SMD 0603 CAP
+Change Physical Footprint: Designator=C7 Old Footprint=SMD 0603 CAP New Footprint=SMD 0603 CAP
+Change Physical Footprint: Designator=C8 Old Footprint=smd 0805 Cap New Footprint=smd 0805 Cap
+Change Physical Footprint: Designator=C9 Old Footprint=SMD 0603 CAP New Footprint=SMD 0603 CAP
+Change Physical Footprint: Designator=D1 Old Footprint=RGB 5mm New Footprint=RGB 5mm
+Change Physical Footprint: Designator=D2 Old Footprint=RGB 5mm New Footprint=RGB 5mm
+Change Physical Footprint: Designator=D3 Old Footprint=LED 5mm round New Footprint=LED 5mm round
+Change Physical Footprint: Designator=P1 Old Footprint=HDR1X4 New Footprint=HDR1X4
+Change Physical Footprint: Designator=P2 Old Footprint=HDR1X2 New Footprint=HDR1X2
+Change Physical Footprint: Designator=P3 Old Footprint=HDR1X2 New Footprint=HDR1X2
+Change Physical Footprint: Designator=R1 Old Footprint=SMD 0603 RES New Footprint=SMD 0603 RES
+Change Physical Footprint: Designator=R2 Old Footprint=SMD 0603 RES New Footprint=SMD 0603 RES
+Change Physical Footprint: Designator=R3 Old Footprint=SMD 0603 RES New Footprint=SMD 0603 RES
+Change Physical Footprint: Designator=R4 Old Footprint=SMD 0603 RES New Footprint=SMD 0603 RES
+Change Physical Footprint: Designator=R5 Old Footprint=SMD 0603 RES New Footprint=SMD 0603 RES
+Change Physical Footprint: Designator=R6 Old Footprint=SMD 0603 RES New Footprint=SMD 0603 RES
+Change Physical Footprint: Designator=R7 Old Footprint=SMD 0603 RES New Footprint=SMD 0603 RES
+Change Physical Footprint: Designator=R8 Old Footprint=SMD 0603 RES New Footprint=SMD 0603 RES
+Change Physical Footprint: Designator=SW1 Old Footprint=Button reset New Footprint=Button reset
+Change Physical Footprint: Designator=SW2 Old Footprint=Button tact_3x6mm New Footprint=Button tact_3x6mm
+Change Physical Footprint: Designator=U1 Old Footprint=ESP_WROOM_32 New Footprint=ESP_WROOM_32
+Change Physical Footprint: Designator=U2 Old Footprint=LGA New Footprint=LGA
